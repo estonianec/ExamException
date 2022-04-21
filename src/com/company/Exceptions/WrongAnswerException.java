@@ -6,6 +6,6 @@ public class WrongAnswerException extends Throwable {
     }
 
     public WrongAnswerException(String m) {
-        super(m);
+        super(m); //for commit
     }
 }
